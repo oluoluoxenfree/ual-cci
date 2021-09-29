@@ -1,10 +1,12 @@
 # Hello world!
 
-Hello everyone, good news! 
+Hello everyone, good news!
 
 I'm Olu (they/them), and I'll be running this for the next few Mondays!
 
-I have worked at a few 'names' (BT/BBC/Financial Times) and currently freelance for a few wondeful organisations, mostly in Javascript.
+I have worked at a few 'names' (BT/BBC/Financial Times) and currently freelance for a few wonderful organisations, mostly in Javascript.
+
+This workshop is entirely flexible; if you feel like you need more time or less time on certain topics, we'll work around the group. There are no silly questions.
 
 ## Hello UAL CCI!
 
@@ -14,22 +16,23 @@ This course will take you through the basics of building a portfolio site. For a
 
 ### Session one will cover:
 
-| Essential Learning                                               | Extensions                                                                 | Things to contemplate                                                                                                               |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| how to use glitch                                                | what you like and dislike about glitch, and more importantly, _why_ you do | If you could change anything about glitch, what would it be? Why? What impact would you choice have on the user base/employees/etc? |
-| HTML and CSS                                                     | basic Javascript                                                           | do you enjoy coding? Why? do you think tools like HTML and CSS are good ones?                                                       |
-| what web accessibility is & how to incorporate it into your work | how to incorporate web accesibility from the very beginning of your work   | Reasearch how much of the web is inaccessible. Think about how this impacts vast swathes of the population across the world         |
-| understand that glitch is a low code solution                    | research other low code solutions.                                         | Would you have preferred to complete this class in a "real" coding environbment, like a working programmer would use? Why? Why not? |
+| Essential Learning                                               | Extensions                                                                                                  | Things to contemplate                                                                                                                                                   |
+| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| How to use git and github                                        | What you like and dislike about git and github, and more importantly, _why_ you do?                         | If you could change anything about git/github, what would it be? Why? What impact would you choice have on the user base/employees/etc? Is it even possible to be sure? |
+| How to use netlify to get something live as quickly as possible  | Edit the template you have chosen to use fofr a website. Make it your own. Is it difficult? Why or why not? | Do you like this tool? Why? Why not? Does making it this easy to make a website make you feel more or less confident about using the web? Why?                          |
+| What web accessibility is & how to incorporate it into your work | How to incorporate web accesibility from the very beginning of your work                                    | Reasearch how much of the web is inaccessible. Think about how this impacts vast swathes of the population across the world                                             |
+| understand that netlify is a low code solution                   | research other low code solutions.                                                                          | Would you have preferred to complete this class in a "real" coding environment, like a working programmer would use? Why? Why not?                                      |
+| Understand why softeware licenses are important                  | DEcide what license - or lack thereof - you would put on any software you made. Why that one?               | Copyright, copyleft and other forms of preventing and encouraging distribution are all very well and good, but do you feel they've done much to shape the modern web?   |
 
 ### Session Two will cover:
 
-| Essential Learning                               | Extensions                                                                                                                          | Things to contemplate                                                                                                                             |
-| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| basic HTML layout, and where to find inspiration | time, skill and monetary contraints change the look and feel of websites; no one has infinite time. does this change how you build? | Given contraints, what are the most important things to you to ensure a site has? "Humans are not edge cases"                                     |
-| Basic CSS Styling                                | more advanced styling and being inspired vs stealing a design                                                                       | browser compatability and its implications. do you care? Should you?                                                                              |
-| getting something live, and what that means      | continuing on your porrtfolio skeleton                                                                                              | 'anyone' can now connect to your device: aka anyone with an internet connected device, enough data and living int he corre4ct country can connect |
+| Essential Learning                               | Extensions                                                                                                                          | Things to contemplate                                                                                         |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| basic HTML layout, and where to find inspiration | time, skill and monetary contraints change the look and feel of websites; no one has infinite time. does this change how you build? | Given contraints, what are the most important things to you to ensure a site has? "Humans are not edge cases" |
+| Basic CSS Styling                                | more advanced styling and being inspired vs stealing a design                                                                       | browser compatability and its implications. do you care? Should you?                                          |
 
-- behance
-- dribbble
-- codepen
-- awwwards
+### Session Three will cover:
+
+| Essential Learning | Extensions                                                                                                 | Things to contemplate                                                                                                                  |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Basic Javascript   | add interactivity with Javascript to either one of the two websites we've made so far, or a brand new site | Do you enjoy coding? Have you changed any opinions on how much or little work it is to do certain things as a result of this workshop? |
