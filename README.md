@@ -1,12 +1,14 @@
- Hello world!
+# Hello world!
 
-Hello everyone, good news! I'm Olu (they/them), and I'll be running this for the next few Mondays!
+Hello everyone, good news! 
+
+I'm Olu (they/them), and I'll be running this for the next few Mondays!
 
 I have worked at a few 'names' (BT/BBC/Financial Times) and currently freelance for a few wondeful organisations, mostly in Javascript.
 
 ## Hello UAL CCI!
 
-This course will take you through the basics of building a portfolio site. For artists an essential; for coders it's often seen as an essential (we can argue about this later).
+This course will take you through the basics of building a portfolio site. For artists an essential; for coders it's often _seen_ as an essential (we can argue about this later).
 
 ## Okay, let's get to it!
 
