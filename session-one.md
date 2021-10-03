@@ -15,3 +15,17 @@ Today, you're going to get something live - aka available to visit on the web - 
 I'd recommend you use [this template](https://templates.netlify.com/template/eleventy-base-blog/) but feel free to explore if you feel confident!
 
 You'll need to sign up for a Netlify account - I'm fairly sure it prompts you but I will show you on my account so you can see the steps first - tell it where to store the code (which repo, or repository). Then we wait. And then you have a site!
+
+### Editing your blog
+
+You can either use the [web editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor) or you can download your repo using git, and push the changes back up.
+
+I will go over both options!
+
+## Web Accessibility
+
+Web accessibility refers to making the web usable for people with disabilities, neurodiverse people and people with other access needs.
+
+If you're using Chrome or Firefox, there are tools that you can download to check basic web accessibility problems with your site. I'd recommend [aXe](https://www.deque.com/axe/browser-extensions/).
+
+This template unfortunately has an issue already; can you tell me what it is? Can you fix it?
