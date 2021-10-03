@@ -24,14 +24,14 @@ This course will take you through the basics of building a portfolio site. For a
 | understand that netlify is a low code solution                   | research other low code solutions.                                                                         | Would you have preferred to complete this class in a "real" coding environment, like a working programmer would use? Why? Why not?                                      |
 | Understand why software licenses are important                   | Decide what license - or lack thereof - you would put on any software you made. Why that one?              | Copyright, copyleft and other forms of preventing and encouraging distribution are all very well and good, but do you feel they've done much to shape the modern web?   |
 
-### Session Two will cover:
+### [Session Two](session-two.md) will cover:
 
 | Essential Learning                               | Extensions                                                                                                                           | Things to contemplate                                                                                          |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
 | basic HTML layout, and where to find inspiration | time, skill and monetary constraints change the look and feel of websites; no one has infinite time. does this change how you build? | Given constraints, what are the most important things to you to ensure a site has? "Humans are not edge cases" |
 | Basic CSS Styling                                | more advanced styling and being inspired vs stealing a design                                                                        | browser compatibility and its implications. do you care? Should you?                                           |
 
-### Session Three will cover:
+### [Session Three](session-three.md) will cover:
 
 | Essential Learning | Extensions                                                                                                 | Things to contemplate                                                                                                                  |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
