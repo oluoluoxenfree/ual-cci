@@ -29,3 +29,8 @@ Web accessibility refers to making the web usable for people with disabilities, 
 If you're using Chrome or Firefox, there are tools that you can download to check basic web accessibility problems with your site. I'd recommend [aXe](https://www.deque.com/axe/browser-extensions/).
 
 This template unfortunately has an issue already; can you tell me what it is? Can you fix it?
+
+# Things to discuss
+
+- low code/no code
+- licenses and why they are important
