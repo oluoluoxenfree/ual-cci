@@ -36,24 +36,6 @@ Javascript!
 | Know what vanilla JS is (what does importing code mean?)                         |
 | Try out a lot of different parts of VanillaJS                                    |
 
-there are a lot of ways of achieiving the same thing in js!!
-_example driven_
-
-- explain coding context - set up and run a piece of example code
-  **half hour per section**
-- variables
-- conditionals (if, else), prints odd and even
-- loops (whichever syntax is easiest - there are others)
-- functions (returns true or false if the number is odd or even)
-- arrays and objects - loop over arrays and interact with an example object (address book using an array of objects). purpose is to model data. address with one or two lines
-- method syntax - function on address book (address.HasTwoLines)
-  - method has access to `this`
-  - `undefined`
-- javascript module - (import, require) "each module is similar to a file". import a file with defs in
-  - mention there are many syntaxes (reference! MDN)
-  - make particular reference to require syntax
-  - npm! centralised rporistiry of modules
-
 ### [Session Three](session-three.md) will cover:
 
 Even more Javascript!

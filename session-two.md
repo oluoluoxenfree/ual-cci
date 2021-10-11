@@ -10,15 +10,15 @@ Things to be covered:
 
 **half hour per section**
 
-- variables
+- variables ([MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables))
 
-- conditionals (if, else), prints odd and even
+- conditionals (if, else), prints odd and even ([MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals))
 
-- loops (whichever syntax is easiest - there are others)
+- loops (whichever syntax is easiest - there are others) ([MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code))
 
-- functions (returns true or false if the number is odd or even)
+- functions (returns true or false if the number is odd or even) ([MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions))
 
-- arrays and objects - loop over arrays and interact with an example object (address book using an array of objects). purpose is to model data. address with one or two lines
+- arrays and objects - loop over arrays and interact with an example object (address book using an array of objects). purpose is to model data. address with one or two lines ([Arrays on MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays) and [Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics))
 
 - method syntax - function on address book (address.HasTwoLines)
 
